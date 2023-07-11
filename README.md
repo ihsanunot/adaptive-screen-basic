@@ -1,8 +1,11 @@
 # Belajar Flutter Adaptive
+![1](https://github.com/ihsanunot/adaptive-screen-basic/assets/127992374/ea9e5730-ba1d-4e42-bae8-8d93a17b64bf)
 
 **Bikin Adaptive :**
 class LayoutBuilder
 Method MediaQuery.of()
+
+![2](https://github.com/ihsanunot/adaptive-screen-basic/assets/127992374/fd5ffc70-4416-4f8f-999f-4b38f063ddc0)
 
 **Widget dan Class Lainnya:**
 - AspectRatio
